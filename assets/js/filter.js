@@ -1,0 +1,1 @@
+jQuery(function($){'use strict';$(window).on('load',function(e){$('.filter-container').filterizr({layout:'packed'});});}(jQuery));
